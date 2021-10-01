@@ -20,7 +20,7 @@ No install required.
 
 After cloning the repo, the files can be accessed locally.
 
-Instead of running locally, the application can also be ran here:
+Instead of running locally, the email can also be seen here:
  * [Lululemon Email](https://kreid333.github.io/lululemon-email/)
 
 ## Finished Project
